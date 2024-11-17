@@ -10,6 +10,4 @@
 5. Maggie Greene
 
   
-7. ![03 activity 2 1](https://github.com/user-attachments/assets/73d1c20f-58e7-4e85-87ec-2f89225eebd5)
-![03 activity 2 2](https://github.com/user-attachments/assets/61ef1ba0-5fbf-4179-98f0-8e06814f3463)
-![200](https://github.com/user-attachments/assets/5140446e-a8f9-4e63-b15f-767dc4746f88)
+7. ![200](https://github.com/user-attachments/assets/5140446e-a8f9-4e63-b15f-767dc4746f88)
